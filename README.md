@@ -107,6 +107,6 @@
 
      3. 변수 중요도 분석
 
-        ![변수중요도](부동산_가격_예측.assets/변수중요도-1692885643144.jpg)
+        ![변수중요도](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/a8bb1fa0-0a79-4257-9ac1-8b70e1398207)
 
         > OverallQual이 SalePrice 가장 영향을 많이 미쳤으며 SalePrice와의 corr 도 0.8로 가장 높은 상관 관계를 가진다.
