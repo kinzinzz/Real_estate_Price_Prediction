@@ -83,7 +83,7 @@
 
      
 
-  5. #### 🥇Session 3 - 「TabNe, MLP 모델 소득 예측」
+  5. #### 🥇Session 3 - 「TabNe, MLP 모델 가격 예측」
 
      1. 모델 설계
 
