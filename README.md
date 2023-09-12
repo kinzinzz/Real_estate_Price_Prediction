@@ -12,7 +12,6 @@
 ![8166fd7f3f52d285b72ccd0a85664954-11](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/639f1dc0-f752-4f7c-98fd-a1c28ab8546b)
 ![8166fd7f3f52d285b72ccd0a85664954-12](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/d2333fdf-8567-4221-9700-924c640a18bb)
 ![8166fd7f3f52d285b72ccd0a85664954-13](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/9a8d643e-df78-45d8-be68-8d27cf6d324d)
-![8166fd7f3f52d285b72ccd0a85664954-14](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/892944de-cced-465f-b36
-![8166fd7f3f52d285b72ccd0a85664954-15](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/48e0d5a5-b560-492e-8ce7-aa6610970b56)
-c-b1481aa77add)
+![8166fd7f3f52d285b72ccd0a85664954-14](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/892944de-cced-465f-b36)
+![프레젠테이션4](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/fd57392c-d36b-45f1-8cea-ad3b772c73aa)
 ![8166fd7f3f52d285b72ccd0a85664954-16](https://github.com/kinzinzz/Real_estate_Price_Prediction/assets/107156650/4e2c83ff-cced-45b6-8bde-d521e63558ae)
